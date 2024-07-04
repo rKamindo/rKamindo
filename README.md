@@ -1,8 +1,7 @@
 ### Hi, I'm Randy 👋
 
-Passionate developer, who is curious and interested in computer science and technology. I am a Computer Science major at Eastern Michigan University. I am looking for software engineering roles, and am interested to exploring new industries.
-
-Want to get in touch? Contact me at rkamindo@emich.edu or message me on LinkedIn
+I'm a passionate developer dedicated to leveraging technology to solve real-world problems. I'm constantly eager to learn and excited to take on new challenges in the tech world.
+Want to connect? Reach out to me at rkamindo@emich.edu or message me on LinkedIn.
 
 <!--
 **rKamindo/rKamindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
