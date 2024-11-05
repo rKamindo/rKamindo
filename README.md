@@ -5,6 +5,6 @@ I'm a passionate developer dedicated to leveraging technology to solve real-worl
 - 🔭 I’m currently working on my implementation of a Redis Server in C
 - 🌱 I’m currently learning Operating Systems, Formal Languages & Automata, and Operating Systems
 - 👯 I’m looking to collaborate on any work involving distributed systems
-- 📫 How to reach me: rkamindo@emich.edu or message me on LinkedIn.
+- 📫 How to reach me: rkamindo@emich.edu
 
 
